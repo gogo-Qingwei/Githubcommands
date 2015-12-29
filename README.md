@@ -31,3 +31,6 @@ $git add -u # when you have deleted a local file you want to remove from your re
 $git clone git@github.com:gogo-Qingwei/builderqing.github.io.git
  
 ```
+
+# want to change files in local computer
+$git pull
