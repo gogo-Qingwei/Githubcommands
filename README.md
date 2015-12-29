@@ -15,3 +15,10 @@ $git add .
 $git commit -m 'what has changed'
 $git push origin master
 ```
+
+### No more username & password input for every push
+
+# How to delete a file
+
+$git add .
+$git add -u # when you have deleted a local file you want to remove from your repo
