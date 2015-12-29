@@ -19,7 +19,7 @@ $git push origin master
 ### No more username & password input for every push
 
 # How to delete a file
-
+s
 $git add .
 $git add -u # when you have deleted a local file you want to remove from your repo
 
@@ -31,3 +31,5 @@ $git add -u # when you have deleted a local file you want to remove from your re
 $git clone git@github.com:gogo-Qingwei/builderqing.github.io.git
  
 ```
+
+ 
