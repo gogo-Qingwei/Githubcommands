@@ -56,3 +56,15 @@ $git reset --hard commitSHA------
 $git push -f origin HEAD----
 ```
 // add really really stupid stuff
+
+###Branch Commands
+
+```sh
+$git branch
+$git branch branchName
+$git checkput branchName
+$git push origin branchName
+
+$git merge branchName
+$git branch -d branchnametodelete
+```
