@@ -32,9 +32,6 @@ $git clone git@github.com:gogo-Qingwei/builderqing.github.io.git
  
 ```
 
-<<<<<<< HEAD
- 
-=======
 # want to change files in local computer
 $git pull
 >>>>>>> b2bc03fcfeec658758d4f948fb55716b102a287a
