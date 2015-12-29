@@ -42,7 +42,17 @@ $git rm --cached localFileName
 
 ### want to remove a file from online github repo but keep it locally
 
-···sh
+```sh
 $git rm --cached localFile
 #add locanfilename to .gitignore file $ commit
 ```
+
+```sh
+$git reset --hard commitSHA------
+#be back to any commit list in commitlist
+
+#removing 3 commits from online repor
+
+$git push -f origin HEAD----
+```
+// add really really stupid stuff
