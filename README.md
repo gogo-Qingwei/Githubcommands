@@ -35,3 +35,14 @@ $git clone git@github.com:gogo-Qingwei/builderqing.github.io.git
 # want to change files in local computer
 $git pull
 >>>>>>> b2bc03fcfeec658758d4f948fb55716b102a287a
+```
+#want to remove a file from online github repo but keep it in local
+$git rm --cached localFileName
+```
+
+### want to remove a file from online github repo but keep it locally
+
+···sh
+$git rm --cached localFile
+#add locanfilename to .gitignore file $ commit
+```
